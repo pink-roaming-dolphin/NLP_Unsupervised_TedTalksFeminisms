@@ -7,6 +7,7 @@ event, available_languages, duration, (number of)comments, topics" which could b
 As each transcript is quite long, it will be broken up. Possible break points could be (laughter) or (applause) phrases in each document. 
 
 **Question(s)**
+
 Topic modeling should answer the question of: 
 - What are some of the topics that have been favorites at the TED Talks over the years? 
 
@@ -20,4 +21,4 @@ And a possible recommendation system could be:
 
 **MVP Goal**
 - Do a topic modeling for the dataset. 
-- 
+
