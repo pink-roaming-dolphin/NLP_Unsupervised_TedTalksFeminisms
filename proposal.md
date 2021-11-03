@@ -19,6 +19,12 @@ Later, further analysis could answer questions of:
 And a possible recommendation system could be: 
 - Asking a user their set of interests, can we recommend a TED talk for them to watch? 
 
+**Tools** 
+
+- NLTK or Textblob for text processing 
+- Scikit-learn for modeling / other NLP tasks
+- LDA for topic modeling 
+
 **MVP Goal**
 - Do a topic modeling for the dataset. 
 
