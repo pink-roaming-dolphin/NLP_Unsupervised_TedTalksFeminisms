@@ -27,3 +27,6 @@ Here are the plLDAvis visualizations for 4 of the topics and lastly, a word clou
 ![Topic4](https://user-images.githubusercontent.com/81533137/140824756-5d006358-f047-4e90-a6f2-52bd80415899.png)
 
 ![wordcloud](https://user-images.githubusercontent.com/81533137/140825607-010c8f51-3c35-4d9a-bfe4-794d40af6c00.png)
+
+I have done a recommendation system for someone to figure out which next video they should watch - which works only slightly well.
+But before tuning that, I will now attempt clustering to see what I get from these TED talks for a supposed curated sections of their website. 
