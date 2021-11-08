@@ -1,21 +1,21 @@
 **Analyzing the Transcripts of TED Talks**
 
 From my topic modelling, I got the following topics: 
-- Topic 0 is DIGITAL
-- Topic 1 is EARTH SCIENCES
-- Topic 2 is PARENTHOOD
-- Topic 3 is CLIMATE CHANGE
+- Topic 0 is CITIES 
+- Topic 1 is TECHNOLOGICAL DEVELOPMENTS
+- Topic 2 is SLEEP / LIFE IN THE DIGITAL AGE
+- Topic 3 is MEDICINE
 - Topic 4 is FAMILY + COMMUNITY
-- Topic 5 is SLEEP / LIFE IN THE DIGITAL AGE
-- Topic 6 is (ORAL) CULTURE
-- Topic 7 is NATURE
-- Topic 8 is MEDICINE
-- Topic 9 is TECHNOLOGICAL DEVELOPMENTS
-- Topic 10 is POLITICS
-- Topic 11 is CHILDREN
-- Topic 12 is INTERNATIONAL WELFARE
-- Topic 13 is CITIES
-- Topic 14 is RELATIONSHIPS + SEX(ES)
+- Topic 5 is PLAY
+- Topic 6 is CLIMATE CHANGE
+- Topic 7 is DIGITAL
+- Topic 8 is EDUCATION
+- Topic 9 is POLITICS
+- Topic 10 is EARTH SCIENCES
+- Topic 11 is RELATIONSHIPS + SEX(ES)
+- Topic 12 is CULTURE + FEELINGS
+- Topic 13 is OCEANS/ WATER CULTURE
+- Topic 14 is (ORAL) CULTURE
 
 These topics are derived by using a CountVectorizer (compared with the TDIDF model and chosen for better initial results), with tuned parameters of 
 stop words, ngrams, token_pattern, max_df, min_df and an LDA topic modeler (compared with NMF and LSA modellers), with tuned parameters of n_components, doc_topic_prior, topic_word_prior, max_iter. 
