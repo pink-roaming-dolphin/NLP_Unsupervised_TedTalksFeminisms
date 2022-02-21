@@ -1,6 +1,6 @@
-Blog found here: [Medium](https://medium.com/@zey-o/ted-talks-over-the-years-d2b440fa93b9)
+Blog found here: [Medium post](https://medium.com/@zey-o/ted-talks-over-the-years-d2b440fa93b9)
 
-Presentation found here: [presentation](https://github.com/zey-o/NLP_Unsupervised_TedTalksFeminisms/blob/main/Presentation_Ted_Talks.pdf)
+Presentation found here: [Presentation PDF](https://github.com/zey-o/NLP_Unsupervised_TedTalksFeminisms/blob/main/Presentation_Ted_Talks.pdf)
 
 ## TED Talks Over the Years
 
